@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with a custom view.  The preview doesn't render correctly, often showing a black screen or a distorted image. This is particularly problematic when integrating the camera into a complex UI layout.
